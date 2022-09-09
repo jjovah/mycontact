@@ -1,4 +1,4 @@
-# mycontact
+# myContact
 ## Internet Contact and mini-Resume App made in springboot
 This app is a simple SpringBoot application that produces a webpage to display some interesting things about you in a JSON format.
 It was a good way for me to learn springboot and produce something useful in the end.
